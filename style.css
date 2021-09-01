@@ -1,0 +1,13 @@
+* {
+  width: 0;
+  height: 0;
+  box-sizing: border-box;
+}
+
+.box1 {
+  height: 200px;
+  width: auto;
+  background-image: url(box1.jpg);
+  background-position: center;
+  background-size: cover;
+}
